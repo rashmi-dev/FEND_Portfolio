@@ -63,7 +63,7 @@
 }
 
 
-h2 {
+.headline {
     color: #81c784;
     margin-top: 3%;
 }
@@ -74,7 +74,7 @@ h2 {
 }
 
 
-main {
+.proj-tab {
     margin-top: 2%;
 }
 
