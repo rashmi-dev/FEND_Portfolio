@@ -1,5 +1,5 @@
 # FEND Project 1: Portfolio
-Summary: FEND porfolio proj .To create a responsive website using Bootstrap 4.The webpage should have the following elements :-
+**Summary**: FEND portfolio proj .To create a responsive website using Bootstrap 4.The webpage should have the following elements :-
 
 **Header Section**
 1. Logo.
